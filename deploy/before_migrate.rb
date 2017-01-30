@@ -1,0 +1,1 @@
+run 'mkdir /home/test'
