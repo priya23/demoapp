@@ -1,1 +1,1 @@
-run 'mkdir /home/blah'
+run 'mkdir /tmp/test'
